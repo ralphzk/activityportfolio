@@ -1,0 +1,23 @@
+{
+  "name": "parpar",
+  "version": "1.0.0",
+  "description": "activity",
+  "main": "rapzk.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphzk/activityportfolio.git"
+  },
+  "author": "ralphzk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphzk/activityportfolio/issues"
+  },
+  "homepage": "https://github.com/ralphzk/activityportfolio#readme"
+}
